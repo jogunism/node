@@ -3,8 +3,11 @@ node
 
 npm list
 ├─┬ express@2.5.1
+
 │ ├─┬ connect@1.8.7
+
 │ │ └── formidable@1.0.14
+
 │ ├── mime@1.2.11
 │ ├── mkdirp@0.0.7
 │ └── qs@0.6.6
