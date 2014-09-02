@@ -1,7 +1,11 @@
 node
 ====
 
-npm list<br>
+1. node version : 0.6
+
+2. run : node server.js
+
+3. npm list<br>
 ├─┬ express@2.5.1<br>
 │ ├─┬ connect@1.8.7<br>
 │ │ └── formidable@1.0.14<br>
@@ -16,3 +20,4 @@ npm list<br>
 └─┬ mysql@2.0.0-alpha8<br>
   ├── bignumber.js@1.0.1<br>
   └── require-all@0.0.3<br>
+
