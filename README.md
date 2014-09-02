@@ -2,7 +2,6 @@ node
 ====
 
 npm list
-
 ├─┬ express@2.5.1
 │ ├─┬ connect@1.8.7
 │ │ └── formidable@1.0.14
@@ -17,5 +16,4 @@ npm list
 └─┬ mysql@2.0.0-alpha8
   ├── bignumber.js@1.0.1
   └── require-all@0.0.3
-
-
+  
