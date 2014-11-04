@@ -1,7 +1,9 @@
 ##write cache
 ---
 ####version
-- 0.6
+```
+0.6
+```
 ####run
 ```
 $> node server.js
