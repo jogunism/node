@@ -9,8 +9,9 @@
 
         $> node server.js
 
-1. npm list : 
+1. required module : 
 
+        npm list
         ├─┬ express@2.5.1
         │ ├─┬ connect@1.8.7
         │ │ └── formidable@1.0.14
