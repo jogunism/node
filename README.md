@@ -1,6 +1,10 @@
 ## Write cache module
 
-1. version : 0.6
+1. required version : 0.6
+1. setup : 
+
+        $> git clone git@github.com:jogunism/node.git 
+
 1. run :
 
         $> node server.js
