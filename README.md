@@ -23,6 +23,6 @@
         │ ├─┬ readable-stream@1.0.26-2
         │ │ └── string_decoder@0.10.25-1
         │ └── semver@1.1.4
-        ├── mysql@2.0.0-alpha8
-        ├── bignumber.js@1.0.1
-        └── require-all@0.0.3
+        └─┬ mysql@2.0.0-alpha8
+          ├── bignumber.js@1.0.1
+          └── require-all@0.0.3
